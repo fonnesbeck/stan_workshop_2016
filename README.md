@@ -1,12 +1,14 @@
-# Bayesian Modeling using Stan in R
+# Bayesian Modeling using Stan
 
 Stan is an open-source, Bayesian inference tool with interfaces in R, Python, Matlab, Julia, Stata, and the command line. Users write statistical models in a high-level statistical language. The default Bayesian inference algorithm is the no-U-turn sampler (NUTS), an auto-tuned version of Hamiltonian Monte Carlo. Stan was developed to address the speed and scalability issues of existing Bayesian inference tools.
 
-The goal of the workshop is the practical application of Stan to different models, via the RStan interface. Each day will be divided into three sections:
+The goal of the workshop is the practical application of Stan to different models, via the RStan and PyStan interfaces. Each day will be divided into three sections:
 
 1. Bayesian Statistics and MCMC
 2. Coding models in RStan
-3. Case studies in biostatistics
+3. Case studies in biostatistics (days 1 and 2)
+
+The afternoon on the third day will allow users to bring their own data and prototype a model for it using Stan.
 
 Instructors: [Bob Carpenter](https://github.com/bob-carpenter) (Columbia University), [Daniel Lee](https://github.com/syclik) (Columbia University), Chris Fonnesbeck (Vanderbilt University)
 
