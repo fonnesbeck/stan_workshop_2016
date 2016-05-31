@@ -15,6 +15,8 @@ Instructors: [Bob Carpenter](https://github.com/bob-carpenter) (Columbia Univers
 Event Timing: May 31 - June 2, 2016, 9:00 - 16:00  
 Event Address: [Featheringill Hall 136](https://www.google.com/maps/place/Featheringill+Hall/@36.1447708,-86.8055131,17z/data=!3m1!4b1!4m5!3m4!1s0x886466bd355f5741:0x3ae06da3496821a0!8m2!3d36.1447708!4d-86.8033244)
 
+The slides presented at the workshop can be [downloaded here](http://mc-stan.org/workshops/vanderbilt2016/)
+
 ## Schedule
 
 ### Day One
